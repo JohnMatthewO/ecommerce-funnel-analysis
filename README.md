@@ -1,10 +1,3 @@
----
-name: ecommerce-funnel-analysis
-description: E-commerce funnel analysis using SQL, Python, and Power BI on the Olist dataset
-sources: [chat]
-aliases: []
----
-
 # Olist E-Commerce Funnel Analysis
 
 An end-to-end data analytics project analyzing order funnel performance and customer satisfaction using the Brazilian E-Commerce Public Dataset by Olist.
